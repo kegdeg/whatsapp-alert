@@ -24,6 +24,8 @@ done
 send_whatsapp_message   # Send initial alert
 
 
+# Send an alert if your laptop lid has been opened:
+
 # Main loop to check lid state (optional, can be removed)
 #previous_state="closed"
 #while true; do
@@ -33,3 +35,5 @@ send_whatsapp_message   # Send initial alert
 #    previous_state="$lid_state"
 #    sleep 1
 #done
+
+#TODO, take a picture
