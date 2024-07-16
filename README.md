@@ -1,5 +1,5 @@
 # whatsapp-alert with vonage api
-sens a whatsapp alert to your number whenever the user logs in
+sends a whatsapp alert to your number whenever the user logs in
 
 works with linux
 
